@@ -1,7 +1,7 @@
 <p align="left">Hi 👋, I'm Henrik Larsen</p>
 <ul align="left">
  <li>Bachelor of Software engineering student, Oslo Metropolitian University 2023</li>
- <li>Teacher Assistant in Web programming with Spring Boot</li>
+ <li>Teacher Assistant in Web programming with Spring Boot and in Software testing</li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">henrik.hl@hotmail.com
