@@ -1,7 +1,7 @@
 <p align="left">Hi 👋, I'm Henrik Larsen</p>
 <ul align="left">
  <li>Currently studying M.Sc. Computer Science - Artificial Intelligence at Norwegian University of Science and Technology</li>
- <li>Bachelor of Software engineering student, Oslo Metropolitian University 2023: <a href="https://drive.google.com/drive/folders/16GHAoUFJlpSzfEVqP7BDWWTW4eN8bVGm">Link to the thesis</a></li> 
+ <li>Bachelor of Software engineering student, Oslo Metropolitian University 2023: <a href="https://drive.google.com/file/d/1_rfktGRqKBgrYwhGFV56zLZ9NcwEWoCi/view?usp=sharing">Link to the thesis</a></li> 
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">henrik.hl@hotmail.com
